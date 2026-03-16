@@ -20,9 +20,13 @@ This repository is a PyTorch official code of the paper [Representation Alignmen
 
 ## News & Updates
   - [ ] **[2026/03/17]** 📝 Our paper is now available! The paper is released [here](https://github.com/kaist-cvml/PixelREPA).
-  - [x] **[2026/03/17]** 🧑‍💻 Our code is released!
+  - [x] **[2026/03/16]** 🧑‍💻 Our code is released!
 
 ## PixelREPA
+
+<p align="center">
+  <img src="demo/Fig1.png" width="100%">
+</p>
 
 PixelREPA aligns JiT intermediate features to the feature space of an external semantic encoder using our Masked Transformer Adapter (MTA), instead of an MLP.
 This alternative design accelerates training speed of JiT.
