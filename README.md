@@ -5,7 +5,7 @@
   <a href="https://scholar.google.co.kr/citations?user=UbZM7nQAAAAJ&hl=ko&oi=ao" target="_blank">Jaeyo&nbsp;Shin</a><sup>*</sup> &ensp; <b>&middot;</b> &ensp;
   <a href="https://jw-kim.netlify.app/" target="_blank">Jiwook&nbsp;Kim</a><sup>*</sup> &ensp; <b>&middot;</b> &ensp;
   <a href="https://scholar.google.co.kr/citations?user=KB5XZGIAAAAJ&hl=ko" target="_blank">Hyunjung&nbsp;Shim</a> <br>
-  KAIST Graduate School of AI &emsp;<br>
+  KAIST AI &emsp;<br>
   <sup>*</sup>Equal Contribution &emsp; <br>
 </div>
 <br/>
