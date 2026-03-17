@@ -14,6 +14,9 @@
   <a href="https://arxiv.org/abs/2603.14366">
     <img src="https://img.shields.io/badge/arXiv%20paper-2603.14366-b31b1b.svg">
   </a>
+  <a href="https://raw.githubusercontent.com/kaist-cvml/PixelREPA/main/demo/PixelREPA.pdf">
+    <img src="https://img.shields.io/badge/PDF-View-blue">
+  </a>
 </p>
 
 This repository is a PyTorch official code of the paper [Representation Alignment for Just Image Transformers is not Easier than You Think](https://arxiv.org/abs/2603.14366).
