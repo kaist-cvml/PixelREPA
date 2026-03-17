@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://arxiv.org/abs/2603.14366">
-    <img src="https://img.shields.io/badge/arXiv%20paper-2511.13720-b31b1b.svg">
+    <img src="https://img.shields.io/badge/arXiv%20paper-2603.14366-b31b1b.svg">
   </a>
 </p>
 
