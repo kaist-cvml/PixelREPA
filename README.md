@@ -11,15 +11,15 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/kaist-cvml/PixelREPA">
+  <a href="https://arxiv.org/abs/2603.14366">
     <img src="https://img.shields.io/badge/arXiv%20paper-2511.13720-b31b1b.svg">
   </a>
 </p>
 
-This repository is a PyTorch official code of the paper [Representation Alignment for Just Image Transformers is not Easier than You Think](https://github.com/kaist-cvml/PixelREPA).
+This repository is a PyTorch official code of the paper [Representation Alignment for Just Image Transformers is not Easier than You Think](https://arxiv.org/abs/2603.14366).
 
 ## News & Updates
-  - [ ] **[2026/03/17]** 📝 Our paper is now available! The paper is released [here](https://github.com/kaist-cvml/PixelREPA).
+  - [x] **[2026/03/17]** 📝 Our paper is now available! The paper is released [here](https://arxiv.org/abs/2603.14366).
   - [x] **[2026/03/16]** 🧑‍💻 Our code is released!
 
 ## PixelREPA
@@ -168,6 +168,13 @@ Our code is strongly based on [JiT](https://github.com/LTH14/JiT). We sincerely 
 ## Citation
 
 ```bibtex
-@TODO{TODO}
-
+@misc{shin2026pixelrepa,
+      title={Representation Alignment for Just Image Transformers is not Easier than You Think}, 
+      author={Jaeyo Shin and Jiwook Kim and Hyunjung Shim},
+      year={2026},
+      eprint={2603.14366},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.14366}, 
+}
 ```
