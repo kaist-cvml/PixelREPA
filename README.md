@@ -1,4 +1,4 @@
-# PixelREPA: Representation Alignment for Just Image Transformers is not Easier than You Think
+# [ECCV 2026] PixelREPA: Representation Alignment for Just Image Transformers is not Easier than You Think
 
 
 <div align="center">
@@ -22,6 +22,7 @@
 This repository is a PyTorch official code of the paper [Representation Alignment for Just Image Transformers is not Easier than You Think](https://arxiv.org/abs/2603.14366).
 
 ## News & Updates
+  - [x] **[2026/06/18]** ✈️ Our paper is accepted to ECCV 2026!
   - [x] **[2026/03/17]** 📝 Our paper is now available! The paper is released [here](https://arxiv.org/abs/2603.14366).
   - [x] **[2026/03/16]** 🧑‍💻 Our code is released!
 
